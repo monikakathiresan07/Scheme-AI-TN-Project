@@ -1,0 +1,6 @@
+{
+  "name": "Scheme AI",
+  "description": "Smart Discovery. Better Awareness. Discover Tamil Nadu and Central Government welfare schemes matching citizen profiles with AI recommendations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
